@@ -24,7 +24,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/levina-lab/YukkiMusic-Old # clone the repo.
+git clone https://github.com/kshirsagarck/khandeshbeats # clone the repo.
 cd YukkiMusic-Old
 pip3 install -U -r requirements.txt
 cp sample.env .env # use vim to edit ENVs
